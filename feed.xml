@@ -19,5 +19,59 @@
       <itunes:duration>00:11:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Jurban habait lágrimas de esperanza</title>
+      <description>Jurban habait lágrimas de esperanza</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Jurban%20habait%20l%C3%A1grimas%20de%20esperanza.mp3" length="33482060" type="audio/mpeg"/>
+      <guid isPermaLink="false">Jurban habait lágrimas de esperanza.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:35 -0000</pubDate>
+      <itunes:duration>00:34:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>¿En donde se encuentra el yetzer</title>
+      <description>¿En donde se encuentra el yetzer</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/%C2%BFEn%20donde%20se%20encuentra%20el%20yetzer.mp3" length="31870827" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿En donde se encuentra el yetzer.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:36 -0000</pubDate>
+      <itunes:duration>00:33:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Las kabalot</title>
+      <description>Las kabalot</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Las%20kabalot.mp3" length="28519213" type="audio/mpeg"/>
+      <guid isPermaLink="false">Las kabalot.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:37 -0000</pubDate>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lo s obstáculos de la tefila</title>
+      <description>Lo s obstáculos de la tefila</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Lo%20s%20obst%C3%A1culos%20de%20la%20tefila.mp3" length="13218292" type="audio/mpeg"/>
+      <guid isPermaLink="false">Lo s obstáculos de la tefila.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:37 -0000</pubDate>
+      <itunes:duration>00:44:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Que tu tefila sea con vida y sabor</title>
+      <description>Que tu tefila sea con vida y sabor</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Que%20tu%20tefila%20sea%20con%20vida%20y%20sabor.mp3" length="42005084" type="audio/mpeg"/>
+      <guid isPermaLink="false">Que tu tefila sea con vida y sabor.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:38 -0000</pubDate>
+      <itunes:duration>00:43:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Que la comunicación sea común</title>
+      <description>Que la comunicación sea común</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Que%20la%20comunicaci%C3%B3n%20sea%20com%C3%BAn.mp3" length="36918520" type="audio/mpeg"/>
+      <guid isPermaLink="false">Que la comunicación sea común.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 14:47:39 -0000</pubDate>
+      <itunes:duration>00:38:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
