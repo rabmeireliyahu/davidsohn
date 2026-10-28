@@ -10,5 +10,14 @@
     <itunes:image href="https://rabmeireliyahu.github.io/davidsohn/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>Activa tu potencial</title>
+      <description>Activa tu potencial</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Activa_tu_potencial.mp3" length="33478773" type="audio/mpeg"/>
+      <guid isPermaLink="false">Activa_tu_potencial.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:02 -0000</pubDate>
+      <itunes:duration>00:11:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>
