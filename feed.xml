@@ -73,5 +73,14 @@
       <itunes:duration>00:38:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Hola metí a mi Papá para que mande sus shiurimpor acá</title>
+      <description>Hola metí a mi Papá para que mande sus shiurimpor acá</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Hola%20met%C3%AD%20a%20mi%20Pap%C3%A1%20para%20que%20mande%20sus%20shiurimpor%20ac%C3%A1.mp3" length="82989" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hola metí a mi Papá para que mande sus shiurimpor acá.mp3</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:34 -0000</pubDate>
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
