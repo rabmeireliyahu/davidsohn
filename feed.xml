@@ -82,5 +82,23 @@
       <itunes:duration>00:00:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Los tres explosivos</title>
+      <description>Los tres explosivos</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Los%20tres%20explosivos.mp3" length="35574364" type="audio/mpeg"/>
+      <guid isPermaLink="false">Los tres explosivos.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 05:38:12 -0000</pubDate>
+      <itunes:duration>00:37:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Envidia 1</title>
+      <description>Envidia 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Envidia%201.mp3" length="35574364" type="audio/mpeg"/>
+      <guid isPermaLink="false">Envidia 1.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 05:38:13 -0000</pubDate>
+      <itunes:duration>00:37:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
