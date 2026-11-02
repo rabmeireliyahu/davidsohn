@@ -75,137 +75,97 @@
     </item>
     
     <item>
-      <title>Los tres explosivos</title>
-      <description>Los tres explosivos</description>
+      <title>Los tres explosivos de tu corazón</title>
+      <description>Los tres explosivos de tu corazón</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Los%20tres%20explosivos.mp3" length="35574364" type="audio/mpeg"/>
       <guid isPermaLink="false">Los tres explosivos.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:12 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:37:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    
+    
+    
+    
+    
     <item>
-      <title>Envidia 1</title>
-      <description>Envidia 1</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Envidia%201.mp3" length="35574364" type="audio/mpeg"/>
-      <guid isPermaLink="false">Envidia 1.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:13 -0000</pubDate>
-      <itunes:duration>00:37:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La envidia 2</title>
-      <description>La envidia 2</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20envidia%202.mp3" length="36727931" type="audio/mpeg"/>
-      <guid isPermaLink="false">La envidia 2.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:13 -0000</pubDate>
-      <itunes:duration>00:38:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mazal tov</title>
-      <description>Mazal tov</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Mazal%20tov.mp3" length="38617106" type="audio/mpeg"/>
-      <guid isPermaLink="false">Mazal tov.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:14 -0000</pubDate>
+      <title>La envidia (1)</title>
+      <description>La envidia (1)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20envidia%2C%20la%20forma%20equivocada%20de%20ver%20la%20vida.mp3" length="38617106" type="audio/mpeg"/>
+      <guid isPermaLink="false">La envidia, la forma equivocada de ver la vida.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:40:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Ayin hará superstición o realidad</title>
-      <description>Ayin hará superstición o realidad</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Ayin%20har%C3%A1%20superstici%C3%B3n%20o%20realidad.mp3" length="37640336" type="audio/mpeg"/>
-      <guid isPermaLink="false">Ayin hará superstición o realidad.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:15 -0000</pubDate>
+      <title>El ayin hará: ¿superstición o realidad?</title>
+      <description>El ayin hará: ¿superstición o realidad?</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/El%20ayin%20har%C3%A1%20%C2%BFsuperstici%C3%B3n%20o%20realidad.mp3" length="36727931" type="audio/mpeg"/>
+      <guid isPermaLink="false">El ayin hará ¿superstición o realidad.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:38:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>¿Dónde se esconde el yétzer hará?</title>
+      <description>¿Dónde se esconde el yétzer hará?</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/El%20mazal%2C%20el%20destino%20de%20la%20persona.mp3" length="35928793" type="audio/mpeg"/>
+      <guid isPermaLink="false">El mazal, el destino de la persona.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:37:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La hermana de la envidia: si él lo tiene, yo también</title>
+      <description>La hermana de la envidia: si él lo tiene, yo también</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20envidia%20el%20deseo%20interno%20de%20ser%20la%20otra%20persona.mp3" length="34539999" type="audio/mpeg"/>
+      <guid isPermaLink="false">La envidia el deseo interno de ser la otra persona.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:35:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La envidia (2): la forma equivocada de ver la vida</title>
+      <description>La envidia (2): la forma equivocada de ver la vida</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20hermana%20de%20la%20envidia%2C%20si%20el%20lo%20tiene%20yo%20tambi%C3%A9n.mp3" length="37640336" type="audio/mpeg"/>
+      <guid isPermaLink="false">La hermana de la envidia, si el lo tiene yo también.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:39:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Los tres explosivos de tu corazón</title>
-      <description>Los tres explosivos de tu corazón</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Los%20tres%20explosivos%20de%20tu%20coraz%C3%B3n.mp3" length="38948130" type="audio/mpeg"/>
-      <guid isPermaLink="false">Los tres explosivos de tu corazón.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:18 -0000</pubDate>
-      <itunes:duration>00:40:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La envidia, la forma equivocada de ver la vida</title>
-      <description>La envidia, la forma equivocada de ver la vida</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20envidia%2C%20la%20forma%20equivocada%20de%20ver%20la%20vida.mp3" length="38617106" type="audio/mpeg"/>
-      <guid isPermaLink="false">La envidia, la forma equivocada de ver la vida.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:18 -0000</pubDate>
-      <itunes:duration>00:40:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>El ayin hará ¿superstición o realidad</title>
-      <description>El ayin hará ¿superstición o realidad</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/El%20ayin%20har%C3%A1%20%C2%BFsuperstici%C3%B3n%20o%20realidad.mp3" length="36727931" type="audio/mpeg"/>
-      <guid isPermaLink="false">El ayin hará ¿superstición o realidad.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:20 -0000</pubDate>
-      <itunes:duration>00:38:15</itunes:duration>
+      <title>El yétzer hará vive en la fantasía</title>
+      <description>El yétzer hará vive en la fantasía</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/%C2%BFEn%20donde%20se%20encuentra%20el%20yetzer%20har%C3%A1%20en%20la%20persona.mp3" length="33627510" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿En donde se encuentra el yetzer hará en la persona.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:35:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>El mazal, el destino de la persona</title>
       <description>El mazal, el destino de la persona</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/El%20mazal%2C%20el%20destino%20de%20la%20persona.mp3" length="35928793" type="audio/mpeg"/>
-      <guid isPermaLink="false">El mazal, el destino de la persona.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:22 -0000</pubDate>
-      <itunes:duration>00:37:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La envidia el deseo interno de ser la otra persona</title>
-      <description>La envidia el deseo interno de ser la otra persona</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20envidia%20el%20deseo%20interno%20de%20ser%20la%20otra%20persona.mp3" length="34539999" type="audio/mpeg"/>
-      <guid isPermaLink="false">La envidia el deseo interno de ser la otra persona.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:22 -0000</pubDate>
-      <itunes:duration>00:35:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La hermana de la envidia, si el lo tiene yo también</title>
-      <description>La hermana de la envidia, si el lo tiene yo también</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/La%20hermana%20de%20la%20envidia%2C%20si%20el%20lo%20tiene%20yo%20tambi%C3%A9n.mp3" length="37640336" type="audio/mpeg"/>
-      <guid isPermaLink="false">La hermana de la envidia, si el lo tiene yo también.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:23 -0000</pubDate>
-      <itunes:duration>00:39:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>¿En donde se encuentra el yetzer hará en la persona</title>
-      <description>¿En donde se encuentra el yetzer hará en la persona</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/%C2%BFEn%20donde%20se%20encuentra%20el%20yetzer%20har%C3%A1%20en%20la%20persona.mp3" length="33627510" type="audio/mpeg"/>
-      <guid isPermaLink="false">¿En donde se encuentra el yetzer hará en la persona.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:24 -0000</pubDate>
-      <itunes:duration>00:35:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Motivación, motivo de acción</title>
-      <description>Motivación, motivo de acción</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Motivaci%C3%B3n%2C%20motivo%20de%20acci%C3%B3n.mp3" length="38948130" type="audio/mpeg"/>
       <guid isPermaLink="false">Motivación, motivo de acción.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:26 -0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:40:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Como sentir amor por Hashem</title>
-      <description>Como sentir amor por Hashem</description>
+      <title>Cómo sentir amor por Hashem</title>
+      <description>Cómo sentir amor por Hashem</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/Como%20sentir%20amor%20por%20Hashem.mp3" length="38210934" type="audio/mpeg"/>
       <guid isPermaLink="false">Como sentir amor por Hashem.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:27 -0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:39:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>¿Como expresar amor por Hashem en la práctica</title>
-      <description>¿Como expresar amor por Hashem en la práctica</description>
+      <title>¿Cómo expresar amor por Hashem en la práctica?</title>
+      <description>¿Cómo expresar amor por Hashem en la práctica?</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/%C2%BFComo%20expresar%20amor%20por%20Hashem%20en%20la%20pr%C3%A1ctica.mp3" length="41355659" type="audio/mpeg"/>
       <guid isPermaLink="false">¿Como expresar amor por Hashem en la práctica.mp3</guid>
-      <pubDate>Sun, 01 Nov 2026 05:38:28 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:43:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
