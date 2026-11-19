@@ -190,5 +190,14 @@
       <itunes:duration>00:46:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>El ego-ismo</title>
+      <description>El ego-ismo</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-davidsohn/El%20ego-ismo.mp3" length="43109415" type="audio/mpeg"/>
+      <guid isPermaLink="false">El ego-ismo.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 14:16:18 -0000</pubDate>
+      <itunes:duration>00:44:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
